@@ -1,11 +1,21 @@
-# VuePress 快速上手
+# tao
 
-### 步骤一：git clone git@mobike.io:zhangyunchen/vuepress-devkit.git
+> A Vue.js project
 
-### 步骤二：运行 npm install
+## Build Setup
 
-### 步骤三：运行 npm run dev
+``` bash
+# install dependencies
+npm install
 
-### 最后：打开 http://localhost:8080/ 即可看到一个 Vue 文档风格的网站
+# serve with hot reload at localhost:8080
+npm run dev
 
-#### PS. 想获取更多部署方法，可以点击“快速上手” 第五节 部署上线，按步骤操作即可
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
